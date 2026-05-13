@@ -1,0 +1,2 @@
+disable_clubs,disable_discussions,disable_events,disable_stream,disable_immersion,disable_mature_words
+False,True,True,True,False,True

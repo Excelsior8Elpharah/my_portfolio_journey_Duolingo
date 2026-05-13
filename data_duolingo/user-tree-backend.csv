@@ -1,0 +1,4809 @@
+"language","event_timestamp","skill_summary"
+"en<-pt","2025-06-10T23:15:52.180204291Z","skill_progress {
+  skill_id: ""\000\376\177\300\203Q;\214\023\302=\'\247\023\225\312""
+}
+skill_progress {
+  skill_id: ""\002~n)\237-\335\a\017\215E\324~\361\311\216""
+}
+skill_progress {
+  skill_id: ""\003I$\314-Eh\025\270\306\241q?\005\300{""
+  finished_levels: 1
+}
+skill_progress {
+  skill_id: ""\003Rq\236\314\177\241\273M\035\316\264d /B""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\003\312s)\261\343FAm>\214^\261t{\254""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\0042I\255v\340\f3p:\213\243\341\226\235t""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\004\217s\352wn%\344Xb\343\304\177\3453\177""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\004\373\300\271P\276\263\372\037\207uxq}\361~""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\005\v\n\201\234H{\206\326\241\375\356\213|\325\274""
+  finished_levels: 3
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\006\354\263\334\314\f\035\2604\203u\t\021h\264\b""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\aC{\227\257\225\305\370\345\321\365<\0361\332%""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\t3<\203_=\316\222\344\255\023\035\327K\264\177""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\t\231\270(\025\r\332\350>\311\222^t\274\333\335""
+}
+skill_progress {
+  skill_id: ""\t\311\220\271\261a\227\006\v\245\256\355\274\032\3018""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\nD(\253\024,\2122/\332\260w[\215\351\352""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\v\250d\017a\022\326S\214\303/\216\204v\227\037""
+  finished_levels: 5
+  finished_legendary_level: true
+  skill_level_legendary_progress {
+    level_index: 2
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\v\342\200f\357=B\233-\277\334\020\212+\316j""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\f\023NC\242\203\264\240n\215\3710\225\370\f2""
+}
+skill_progress {
+  skill_id: ""\f0\217\353?\276\324\251\n\277\275\r\372A\211A""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\f\254j%^\021\022\351\017\025\231\3251yY@""
+}
+skill_progress {
+  skill_id: ""\f\311\251#m\330\006\023^\371*\262\301\310\327\017""
+}
+skill_progress {
+  skill_id: ""\f\377\324\272\311*(_\210\263\024e\237\005\201R""
+}
+skill_progress {
+  skill_id: ""\r\211\241\302\200\376\312\320\225\305\215k\226Oi\004""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\0164.6\215&3\301\320\214\025\324\\\335\020|""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\016\3556\335\256\304c\000\212XQ]\254\313\217e""
+}
+skill_progress {
+  skill_id: ""\017\0041q\034\261\337&\327\262WK%\345\032\027""
+  finished_levels: 2
+}
+skill_progress {
+  skill_id: ""\017\231&\304\334n\217\272^vS\003u\034\360b""
+}
+skill_progress {
+  skill_id: ""\017\364\365\200\026\372\216P\0216\330o\332\ab\204""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\020R\230<\345\241\240+M\3406[\224\274<s""
+}
+skill_progress {
+  skill_id: ""\022\354\177\275?{\315&\341J\363b\352^\266\312""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\024*%\273\252\236\272\216%J=o\371?U\203""
+  finished_levels: 1
+}
+skill_progress {
+  skill_id: ""\024D\345\272B=3\231\314\263\302\333;\336t\343""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\025PV!\270\333\324P\347\271\306yh\3647\315""
+}
+skill_progress {
+  skill_id: ""\027!\tc\270<\206@\n5\224\303\034.F~""
+}
+skill_progress {
+  skill_id: ""\031\023k~\256p\306\240\330\245Y\373\b.\n!""
+}
+skill_progress {
+  skill_id: ""\031\2145\212\321p\317\340h\265\377c\002XM\331""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\032\021\207_;\""\nh:\204\233=\rx9>""
+}
+skill_progress {
+  skill_id: ""\032n\210\206\276_\313\204:v)C\301\341M#""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\032s\203i\026\347\271\275J~G\213R\021\277\342""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\032\363\311_\247\377S\241G9\372\262-u`y""
+}
+skill_progress {
+  skill_id: ""\033\236\263\020\017\334x\271\226mK\366\363B\207\265""
+}
+skill_progress {
+  skill_id: ""\033\237e\211N\035\232\236c\a\207\210\324_\247\305""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\036\032(yFX\336\177\327\216\022p\255z!X""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\037\300\236k8\017:e\003\314\020S\025\376{5""
+  finished_levels: 2
+}
+skill_progress {
+  skill_id: ""\037\305U#>U\267\351\267\312B\341\227\242V\210""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""!^b\231&\310Nl\v\214\257h\350\252\326\326""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""!\3261\243\211\023{\354\316P8\017\322\352\276\327""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\""X\307/\207mdB\207v\302\373\\c\226K""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\""\276gzP\203\362\236\377A\354\377\a\030\217\264""
+}
+skill_progress {
+  skill_id: ""\""\3057\375\035t\336\354\302\257\216\274A\346\220y""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""#\205\036Th\267&\302\342\216\371\337\240\217\335b""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""$\a\275\343\267\022Hu\020L9\bA\220Y\353""
+}
+skill_progress {
+  skill_id: ""$\032\250\223\t9e\340\261\206{\356\233\300\227E""
+}
+skill_progress {
+  skill_id: ""%\262(\232\355r\307\376\243\205\322:\314\306\360\002""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""&RX\024v\206W5\215\217n\027(\363q\200""
+}
+skill_progress {
+  skill_id: ""&u*\246B\035\346\001\001\t\215\344$\2545s""
+}
+skill_progress {
+  skill_id: ""&\305\213\002MVI\276[;\206\333\346\371\0310""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""&\316\3544\307\206\301\315\f\205\360<\265D\257 ""
+  finished_levels: 5
+}
+skill_progress {
+  skill_id: ""&\343[7=[\2547>z\311\242\3564\b\201""
+  finished_levels: 2
+}
+skill_progress {
+  skill_id: "")c\002\207^$xyB\213p%\362\223\327\030""
+  finished_levels: 3
+  skill_level_legendary_progress {
+    level_index: 2
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""+K\232\315`\324\354D\341J\207\346i\006\b\343""
+  finished_levels: 5
+}
+skill_progress {
+  skill_id: "",\253\247\2510:]\027tU\273\036\276(\253^""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""-L\264>\312\2509`i\226\240O\230`?\016""
+}
+skill_progress {
+  skill_id: "".ua\253u\273\320B\315\311U\365X\244\037\362""
+  finished_levels: 5
+  finished_legendary_level: true
+  skill_level_legendary_progress {
+    level_index: 2
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""/2Z\314\025#\366\272\306\244H\0274:+r""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""/>\0162ZD\242+\202q\234\250>\\\021Y""
+  finished_levels: 1
+}
+skill_progress {
+  skill_id: ""/\307b58G\302E\350\261\250\275\206\251\360O""
+  finished_levels: 2
+}
+skill_progress {
+  skill_id: ""0\025Vc\206\021{\365\304\336\202.M\025\377\003""
+  finished_levels: 5
+}
+skill_progress {
+  skill_id: ""1\222Xd\366p\020\231\252Cs\2670\233,a""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""1\302\254*\370\261\023\025\f\270\366\346\235\215\264~""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""3\256\017\234\3207\264`\353A\306\264\032q8\262""
+}
+skill_progress {
+  skill_id: ""3\362\001\353S\376\377~\357\231?\241V\353T\t""
+  finished_levels: 2
+}
+skill_progress {
+  skill_id: ""4.n\365Q\264\212\202\241\261\236w\302\224\277\272""
+  finished_levels: 5
+  finished_legendary_level: true
+  skill_level_legendary_progress {
+    level_index: 2
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""4\227\256}.\""P\226\032\321\224z\3448Q\221""
+}
+skill_progress {
+  skill_id: ""4\276i\353\3248!\'\347\220\263@q#b\230""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""5\030q\002\301\""\244}X\375\v\0234\017(\223""
+}
+skill_progress {
+  skill_id: ""7\242\a\241>*\331\266\034\v\233\273\315\""\0020""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""7\333J<\223R\001~\210\033\033\243#\370XG""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""8\215\342\2061\000\260k\273t\237+K\310k\207""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""8\260\200\000\223\327\000\324`\265\024\022]2D+""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""9:\377\242\334\257\306\243c~\f\252_\215\354\360""
+  finished_levels: 5
+}
+skill_progress {
+  skill_id: ""9^\bG\206(\331\226\214|\020\370\217\215?B""
+}
+skill_progress {
+  skill_id: "":]sf\037\031`\033MT\017\017\005\240cJ""
+}
+skill_progress {
+  skill_id: ""=!\t\352\365H\a\022\026\241B\\\244\374\332\035""
+}
+skill_progress {
+  skill_id: "">\030FA\226\243\340\210\260\356\344/\353\375*\220""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""?1\223\347\217\267\037\bF\252\361\3745M\263\316""
+  finished_levels: 5
+  finished_legendary_level: true
+  skill_level_legendary_progress {
+    level_index: 2
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""?1\254\207\t\235\370\371G\251\271\241`1[\256""
+}
+skill_progress {
+  skill_id: ""?\366\352\241A|9f\231M\024M\f\221\034\204""
+}
+skill_progress {
+  skill_id: ""@F\255\200\023o\222\252\247\211\247\375\224\265\v\020""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""@U\364Y\320\317a\234\344\327\331,\254\261\226\247""
+}
+skill_progress {
+  skill_id: ""@\225\217\313\246\206\032\265\377\255bkV\302uL""
+  finished_levels: 3
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""@\255\306\356\006\211\352\264\324\001\004\364\020\234\207)""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""D\247g\341\255\363\311O\a\271\374m\204\312a\346""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""EP&M\304\241\321\355\032T\301\362\241UE\213""
+}
+skill_progress {
+  skill_id: ""E\200\320\032|\322Q\242\234\fl~\257W\276|""
+  finished_levels: 2
+}
+skill_progress {
+  skill_id: ""E\310@J^\327\211\b\035,\002\031\274B\322~""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""F\f\260LP\340\374\025\270i\204\346\225\231\0050""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""G\263\243\255\264\037\313\325\2502\217$G\277\365\223""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""H}\'\2432\211\\\004\235C\367x\004<\323\365""
+}
+skill_progress {
+  skill_id: ""I9B\303R\003/\341\235\203\307\001p\253\226X""
+}
+skill_progress {
+  skill_id: ""J&\020T\311\230\200\nI\022\374n<\265b\201""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""Je\332uy\272\322kf\350B\330\352h[\242""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""J\340\035}4\255\321\0000\275=\275\230\f\330%""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""K8\303OM\356\336\216\343\aw\365\256}\322\v""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""L\'\2552\n\005\232\235\032\""\017\257n\377\364T""
+}
+skill_progress {
+  skill_id: ""L,\274\237n\027\3411\307\016\036\""\006\'\345\214""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""MB&5\030\321\304\226\032\363\231\205\375\246\3253""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""O\001\016A\274\005\207\265\033T`\033\f\232\320\346""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""O\376\340\354\035\016\333\361\0340\231\235\243\'?\327""
+}
+skill_progress {
+  skill_id: ""Qg^1Z<I\202R\214+3\257\226\234\220""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""Q\273\272JM\223X\033*6J\033\265\207\237L""
+  finished_levels: 5
+  finished_legendary_level: true
+  skill_level_legendary_progress {
+    level_index: 2
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""R\330\026\317lR\207\373\275\314\035Q\024~A\005""
+}
+skill_progress {
+  skill_id: ""SU\264\224J\030<\355:\032\345=r\204\310B""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""U\2458i\273\326]\3209\203\352\021o\255\276?""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""U\302\311\360\334t\006\355<\022_\331\005[\220j""
+}
+skill_progress {
+  skill_id: ""VEt\214\203}\253\217\307\253\314\264\352\200\023F""
+}
+skill_progress {
+  skill_id: ""W<Mb\027\343\322\nq\351\020}\305;:]""
+  finished_levels: 1
+}
+skill_progress {
+  skill_id: ""Wl@+\035\243{\215\246c\216\004.(s\316""
+}
+skill_progress {
+  skill_id: ""Wr\003\324\340\232}A\246\270M\203\375v\354L""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""W\205\261G\374\346\273\301:\025\314\177\266mM/""
+}
+skill_progress {
+  skill_id: ""X\267\370\255\025\211\241 \307cb\211\347/\343%""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""YB\237\036\265/)V\304\243\004\205\351T\366\223""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""Y\306\332@#\306\266\275\213&\341\000\322\365\263S""
+}
+skill_progress {
+  skill_id: ""Z\365)b\303<\341\302\262F\375\360\213<\261\256""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""[\353M\361\177\273\034\253\255\357\326\201B\360\032c""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\\(:\003\034\vT9\021@I\3661Q\232\324""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\\\245\251\263\3104\303\347\240\210\324X\016=\236P""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\\\304\020,I$6n\332X\226x\312\3172\313""
+}
+skill_progress {
+  skill_id: ""]JU\365&\006\003\346M\263\332\206nS\311c""
+}
+skill_progress {
+  skill_id: ""_\t\275\206%\250&\177I\343p\375\257\246I=""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""_\331\311\033\3755\304\224\227\230>\2149e\240\273""
+  finished_levels: 2
+  finished_legendary_level: true
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""`K\276\207\342\2377d\372\357\236\036\207\355\250u""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""`\333S{_u\240\377\371\246\262\355v\307\276\016""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""a9\370I\332s\246\307\372\303\216\0308\357D`""
+  finished_levels: 5
+  finished_legendary_level: true
+  skill_level_legendary_progress {
+    level_index: 2
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""b>J\217\217A\357/T\274\227c*-6q""
+}
+skill_progress {
+  skill_id: ""c\212\177&\'\026\245\205\3650\r\240\2151\016C""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""c\347\026\334\352\236\3065\r\001\310<\227M]\t""
+}
+skill_progress {
+  skill_id: ""d\020\254\247\264\347\335\221\267\034\240Z\021\352\361!""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""d\266\216\353F;\207\360\205\006\256\310y\330\252\342""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""e\017\337CPN5\':B\274\303\316Hq\232""
+}
+skill_progress {
+  skill_id: ""e\233\206\314x\a\264\222\216\335#\364\344\006\371\345""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""f\""\301\026z\216\031\302r\370\365\246)\251\251\302""
+}
+skill_progress {
+  skill_id: ""ga4IUS\036S\356\231\247\215\314\311\354\327""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""g\317\325\'\t\312\017\001\352j\330\317\253\261\332+""
+}
+skill_progress {
+  skill_id: ""g\361r\231m\255!\301\243\201>\2062\322\264\037""
+  finished_levels: 5
+}
+skill_progress {
+  skill_id: ""h/L\333t\206\363N\361\003\006\232\303\225\340\207""
+}
+skill_progress {
+  skill_id: ""i\'\036\027\230\023w\335\b\215\002\310}\233|\213""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""j\342X\335\345\327\220\254\a$*\252\374\260\025P""
+  finished_levels: 1
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""m/\247\307\036\020\017\236\364\027\233^\201\270\300\344""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""qM\262o\n\265\270b\025\261\222<\334\034\240\337""
+  finished_levels: 1
+}
+skill_progress {
+  skill_id: ""r\241\265\375p$\361[d8\261\353\366\320F\'""
+  finished_levels: 2
+}
+skill_progress {
+  skill_id: ""r\261gB\225\217\326X\234|\024\331F\353)\346""
+  finished_levels: 2
+}
+skill_progress {
+  skill_id: ""s@\354\215p\027\'K\253r\212\313,\017\2007""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""s\356D\376\211\324T\033\260\252\3554\372\364ku""
+}
+skill_progress {
+  skill_id: ""t[\276I\322N\020\231\341P\336e\214\331_\217""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""t\236,\347\316\n{P\344\221\360\344FMS\313""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""t\251,\341\341\275\003\363\002\333\307\371\326\326\355\345""
+  finished_levels: 3
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""t\376\304\000\312r*o\222\214X^S=\376_""
+  finished_levels: 2
+}
+skill_progress {
+  skill_id: ""u\276\2306\311\320\374?O\032\321W\323\367E7""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""v\0317\033?\t\217t\004\205\242\v\214\362\305\t""
+}
+skill_progress {
+  skill_id: ""vM_\323\340m\347^\267\302\203\002_ti\b""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""wl\032\206\234\331\345\023\263d\244r55\353\211""
+}
+skill_progress {
+  skill_id: ""z}\320\325\221.\201\316\260\333%b#t\023\202""
+}
+skill_progress {
+  skill_id: ""z\363eA\347D\037\351\351m\277\322D\277y?""
+}
+skill_progress {
+  skill_id: ""|*O3\343\017u\227| \366\321,\030\211\025""
+  finished_levels: 1
+}
+skill_progress {
+  skill_id: ""~\317A\301\332(\306\261~\033\375\325{\331\033\252""
+  finished_levels: 2
+}
+skill_progress {
+  skill_id: ""\177\017*\213\032\000\000\362g\272Z\376\326\371s\216""
+}
+skill_progress {
+  skill_id: ""\177\307\243\233\205\032\252E&\274\367\270\026\253\223\212""
+}
+skill_progress {
+  skill_id: ""\200\260\036#\361\246\204\005\037\315\260\265\0056k\034""
+}
+skill_progress {
+  skill_id: ""\200\343\210\021+B|\273\253\337\210\233\306\b\306p""
+  finished_levels: 3
+  skill_level_legendary_progress {
+    level_index: 2
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\201-\272,\303\346\203Hl\363=\315\024Y\b\003""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\201z\261x\331\347\271\256\354\300\373\031\t:&M""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\203v\376\364d\247\242\000\367FN\342\264M]\354""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\204\v\214\2718\b\2659\223y\265 \312\343o ""
+}
+skill_progress {
+  skill_id: ""\207\037\344\235Z\377\023K\275\232\r\373D\266U\243""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\207\366\344\034\177\234\322\226}\025\331\""\232\nw\373""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\211j\200\203\256\217=\273A\360\205\372\330?S}""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\212\362^\231\326\375\276\017\1770\220B\247\033\233J""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\213\324\372\023\214\346\234Y\353c\330\037\237O\213b""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\214vt\035o\234\276\211\277\372\300\272T2\276%""
+  finished_levels: 3
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\215P\307\316\230\331\023 \361\373#\b\252\203o\037""
+}
+skill_progress {
+  skill_id: ""\215bO\274\326\260\366\276\226\214\360 \216\344/\376""
+}
+skill_progress {
+  skill_id: ""\216\fL\264\001\030\250R\355\026\264\322{\035\255\b""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\216C\310\276\351H\200\307\3352\301\260\304\351\214\312""
+}
+skill_progress {
+  skill_id: ""\217)\311l\022K\'\a\245Z\031LbX\300J""
+}
+skill_progress {
+  skill_id: ""\217\366\215\022\330\232#x\366\260\ah-\026O\030""
+  finished_levels: 2
+}
+skill_progress {
+  skill_id: ""\220\231\370\271\330\302\204kB/\220K\277\251\302\364""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\221\023H\225\347\267}\263\311a\022x\266\266\225\310""
+  finished_levels: 1
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\222\017\324\221\313\336\225\325\326\234\245\260\275\264\203\217""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\222\'\235\205k\253};J\305\267e\0355\371\342""
+  finished_levels: 3
+  skill_level_legendary_progress {
+    level_index: 2
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\222,\355\330\027\332\2432\260\217\327\n4\271\372\365""
+  finished_levels: 1
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\223\306z\020\247\037\242U\366\353Xt<I\3604""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\225l<\177\252C\213\031\034\212\365\331\001%\262\222""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\226\344\026Q\003\005\376\310\311\032\332e\302y\365\v""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\227p\356\375\f\223F\326\222d\231\272\367A\320W""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\230\252\264t\t\236\342\353\246\350;|\201\346\212\a""
+}
+skill_progress {
+  skill_id: ""\230\313\304\311\327v\332_^\274:IF\370\242R""
+  finished_levels: 5
+  finished_legendary_level: true
+  skill_level_legendary_progress {
+    level_index: 2
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\232\2076[.d\211\332\v\263\000\006\201X\364\215""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\233\342\340\253\022\301\177c\002+!k\273\235\034\343""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\235\303\214CV\374(\2676\251\263_X\353\v\274""
+}
+skill_progress {
+  skill_id: ""\236\230\277\033\211\242$k\023T\033\232\264\301\332o""
+}
+skill_progress {
+  skill_id: ""\237\201\302\354\020\352\207\223\374\204\016\373\300\000\355H""
+  finished_levels: 2
+}
+skill_progress {
+  skill_id: ""\237\316@\231(\231\035\022\a\236SC\302\034\300<""
+}
+skill_progress {
+  skill_id: ""\242\374\216u7\337\311L\\\354m\351\234\'\264\355""
+  finished_levels: 5
+}
+skill_progress {
+  skill_id: ""\243\031\303\366\315\220\214?b\177\222%\b9d\316""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\243\365Gs#\330\267\216\257(G\200\311\245\367\323""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\244\230\315\262\265\252k\220C\321\346<}\225\027\271""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\244\260\221r\213\210iI\210E\327\035\342<7\a""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\245d\275L\274H\026\003el\242\273[\223DR""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\245\321\036=\254>U`<\335\364\204\036 \222\002""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\246\276h\235Y\273\016\200\352\341\370n\247j\305\341""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\247\342\215\3301u\310\342\214\244\242\036\233Ef\245""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\250\272\361\217\220p\35443q%\223u\211\301\323""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\254\r3Lf\262\351Q\304\344x\275 \306 \264""
+}
+skill_progress {
+  skill_id: ""\254\276\031\177\377\000\314\'6\253\354\316\225?LP""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\255k\2543k`\201\304\252\255\202A\207\326\322\312""
+}
+skill_progress {
+  skill_id: ""\256 <+Z$\265\001\304\357\322?6\236\247\343""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\257_\337#\231\037\301\240\355\030\323<\253\365g\364""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\257mE\277\356\246\303/\352\343\t\f\236\b\270R""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\257\232!\326\2238c\264\354\210#\336\024\312(\351""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\260P\264f\255\321\326r8\243\232\265\324\372Az""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\260\262\201ft\2648\r\327\373\2233y\315\236\253""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\263(\005dRuX\252\357\242\325\177\330\340x\272""
+  finished_levels: 1
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\263\240\262\345y\255\331!\260\360\305T\320*8\350""
+  finished_levels: 1
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\266\r\035\356f\245\b\214\327$\311)L\345#\211""
+  finished_levels: 1
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\267\246\327\340\354\037u\362\3178i\230\353\227W\361""
+  finished_levels: 5
+}
+skill_progress {
+  skill_id: ""\2700\335\266\376\266\272\212k\037\230n\261CF|""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\270J\017\026\310\323\260w\225@\234\224 #\202W""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\270PX\374\310 {\246\254\311\024\0179\023ND""
+}
+skill_progress {
+  skill_id: ""\273m\307\220\a\356\230\370\272f\br\256\324\243Z""
+}
+skill_progress {
+  skill_id: ""\273\354\v#m!\024\367\270_\342\325\021\020\256\024""
+}
+skill_progress {
+  skill_id: ""\274\t~\225\035\363\255&\254\344\361Ht@\340\005""
+  finished_levels: 5
+}
+skill_progress {
+  skill_id: ""\274\201f\324\273~Ofi\024=)\327\362\230t""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\274\270\321\364\371K\216.C\366#\305\023y\273\267""
+  finished_levels: 5
+}
+skill_progress {
+  skill_id: ""\274\313\002\314\254\r\001I\3355~\336\303\214\327\335""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\2758a\320\246\027&!\376+&\322JH\325\222""
+}
+skill_progress {
+  skill_id: ""\275=e\300\210%\023\004\357a\303\217\222\224\242D""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\276\206\367\307;x\0334K\243!!\026\342\016?""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\276\352>\353\331\226\336\304 oZv\2619\332>""
+  finished_levels: 5
+  finished_legendary_level: true
+  skill_level_legendary_progress {
+    level_index: 2
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\277B\272\310\333\222\a\272\364\206\361\262\t\333Q\001""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\277U\230\220\307E\211T\301\343\305\375\326\300\356\f""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\300\222\331\311\365\371\v\235\360\254a\370[\310\252\347""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\302\362\220\261\177\314\n\244\333\362cI\372Q\037>""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\303Z\262\217\025\003^\276\000\275{\230\210F\352\232""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\303\247\377\004j\017\243\b\035\203\016\256\003\310oA""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\304\b\017\256\""R\261su\2028M\266\004e\314""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\304\243$\203t<\311\225\352\321A\031\321\321-#""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\306\200\374\vx\271\360\375\307\216\016\001e>\365\027""
+  finished_levels: 1
+}
+skill_progress {
+  skill_id: ""\306\270\336\211\357b\210w\\u:\252|\320\331\006""
+  finished_levels: 5
+  finished_legendary_level: true
+  skill_level_legendary_progress {
+    level_index: 2
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\307\0237\252\222\236\270`\337\341R\234!\'\036$""
+  finished_levels: 5
+  finished_legendary_level: true
+  skill_level_legendary_progress {
+    level_index: 2
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\310\b\362\3531\251\372{B\276O\342p\332vj""
+  finished_levels: 5
+}
+skill_progress {
+  skill_id: ""\310\304\021\376=\255@ \307\026\331 {\252\245\201""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\311\030\235U-w\217Z\321\2468u\274\034jC""
+}
+skill_progress {
+  skill_id: ""\312\260>\265e\354\346-\310?gW6\027P\342""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\312\312%|\326\032\231\nI\253\a\253\346el\313""
+}
+skill_progress {
+  skill_id: ""\313\254\326F\251\362\026f\222\243\204\031\\+E\225""
+}
+skill_progress {
+  skill_id: ""\314@\251Am\202\323\342\326\206X\2121\350\252\021""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\315b\222\026\240\372j`\205I\220/%v\355\367""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\316\b\367\027\016\237\246Jp$G\324\325\367\b\271""
+  finished_levels: 1
+}
+skill_progress {
+  skill_id: ""\317k\336R\352}\233\023\320\345\211\354\277-2!""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\317\236=u\237\'\375\336X\311\342\256m\261\304!""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\317\334\206\343\372\000\235\020;\257\235\203G!\033N""
+  finished_levels: 5
+  finished_legendary_level: true
+  skill_level_legendary_progress {
+    level_index: 2
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\321>H\261(F354(-\361\004 i\r""
+  finished_levels: 5
+  finished_legendary_level: true
+  skill_level_legendary_progress {
+    level_index: 2
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\322\024\217\332\220\264\370`\247u}\b\204\024\266\265""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\322\037\366\342\307\370D\365\336\272\306\""f\313\203m""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\323\275\027\252\371\177\204\234\263:\177\34741\005_""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\324\321\374\016\320yy\274\302j\t\220\313\256y\354""
+  finished_levels: 2
+}
+skill_progress {
+  skill_id: ""\324\375\300\216\024\241\213_\035\3468\314\232\006\2147""
+  finished_levels: 5
+}
+skill_progress {
+  skill_id: ""\326\036\2052M%2Gw\240#b\337\265Py""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\326\236X\022\323\342eMS\223\""{\234Cl\301""
+  finished_levels: 2
+}
+skill_progress {
+  skill_id: ""\326\256\302E\277\2533 \206a\242\345\312\325\265\254""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\326\371Z{\310 \315af\a\365\353\211\220`\340""
+  finished_levels: 5
+}
+skill_progress {
+  skill_id: ""\330\347\'c\3773\343\316\030\r9~\3217I\221""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\331\366#\304\374\352\316\344\326\347\271\301\002\262\230:""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\332\2077\203\364?R\037\\\373\331<\\J\021\022""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\332\266h \245Y\003c\223@@^\323\vK\225""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\332\332\223i,RS\305\257\235<\315\331\324\242\366""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\332\333G\326\356\210\026\377/u\v\251\333\257o6""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\337\377\274*\243\341fs\343J1\n\316\375\327\b""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\340^\323}h\004Z%\022N[\205\217\a\262\371""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\341\016\237d#\""A\367\035`\233\3361g\261\277""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\344K\032\372r:\006xp\232*\243\341\264\026\b""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\344\211.\357eZG\324<\257*\006?\253\005\233""
+  finished_levels: 1
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\345\210e\334\000)\026Z\355\223\273\006\263\317;\361""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\347\352eZ~\232\275ML\004\372\025\370)\215\277""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\350\022p\017\326\211\251Ws\""\230S\3459\331k""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\350\337F\332\n\002>\373& \020\222d\330\315g""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\351d\305&q\035\276\000+u\203\177\251\351\342\346""
+}
+skill_progress {
+  skill_id: ""\352(\325\036HJ\021\037\""\251F=\367\331\365h""
+}
+skill_progress {
+  skill_id: ""\352\264\326v\276AY\030\216\341\370\270\365T\001\202""
+  finished_levels: 5
+}
+skill_progress {
+  skill_id: ""\352\310b\336&\233\212\240\365\347\326+Ux\346c""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\353\357\370\'\303\275pO\307\340h\241\347\275\372?""
+  finished_levels: 2
+}
+skill_progress {
+  skill_id: ""\354\221\373\374`\374@y{\305?\313\307\356^\344""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\354\246\354hwhz\332^\213\036\224\275\336#\033""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\354\272c|\0215h\026\005l\317\006q\262\0051""
+  finished_levels: 1
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\354\301\201\212\355E=\233\310\364\a\331\376\241\235\240""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\355\275\344\333\304V3\312*Y>l\200\033J\336""
+  finished_levels: 5
+  finished_legendary_level: true
+  skill_level_legendary_progress {
+    level_index: 2
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\356\205\367/|\232\213<VN\364=\243Y\376\035""
+  finished_levels: 2
+}
+skill_progress {
+  skill_id: ""\356\310\3572\227\222\346M\324\f\244\316\252d\247\016""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\360\207n\355z5Qu\372Vi\024\204\326\232\262""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\360\211s@\vV2r]8Jx\344\322\376\026""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\361\335\265T\300}\f\244\320\rhO\264Z\354\257""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\362\022\215\323\376Y\325\022\233k\377\006\020\003\335\240""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\362\024\273\320\317r\276\314(l\274\311\306\177Y\337""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\363\246&;\373\340\2048\221\321HEV\347\223\t""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\363\305=\316<\254Y\037\200?X&8\261~;""
+  finished_levels: 2
+}
+skill_progress {
+  skill_id: ""\363\364\342\273\241\374hb%\211tK\331Y\276\233""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\364V\340\f#v\246\317/\fmQ6\316\361H""
+}
+skill_progress {
+  skill_id: ""\364\326\252\310^\307\023\2768\242\006LK-\373\034""
+}
+skill_progress {
+  skill_id: ""\365\231H\333\005\362\265\377\320\324\333\326\035\320\247\253""
+  finished_levels: 2
+}
+skill_progress {
+  skill_id: ""\3669\032\337X\3128\335.\020?q|\323\bM""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\367\303\264#\313\021]\360\021[S\347S.\374\034""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\371v\fnH\251\211\026\n5\354\0320j\245_""
+  finished_levels: 2
+}
+skill_progress {
+  skill_id: ""\371\3070/\364\213\235<t\006\033\352\301|\346\t""
+}
+skill_progress {
+  skill_id: ""\372(\277\325=\244qw\317\005cPd\345[0""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\373\362\244\244\240\321\355K\311^\306\027\r\024Uw""
+  finished_levels: 5
+}
+skill_progress {
+  skill_id: ""\375b\340\rM\177T\020\320?\307\363\275\274\2602""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\376F\337$\177\3073\031?\224V\264Mh\223\251""
+  finished_levels: 2
+}
+skill_progress {
+  skill_id: ""\376\252\310y\323.\000\240yhy/M\303l\255""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+skill_progress {
+  skill_id: ""\377\""\177\211\205<\022\232Z\027Z\376\216\017p\220""
+  finished_levels: 3
+}
+skill_progress {
+  skill_id: ""\377\347\233\364\307G\367sy\0348\tb\303V\222""
+  finished_levels: 2
+  skill_level_legendary_progress {
+    is_legendary: true
+  }
+  skill_level_legendary_progress {
+    level_index: 1
+    is_legendary: true
+  }
+}
+story_progress {
+  key: ""en-pt-a-date""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-a-difficult-person""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-a-fancy-wedding""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-a-new-coat""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-a-perfect-anniversary""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-a-question""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-a-real-prince""
+  value {
+    completions {
+      mode: READ
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-a-relaxing-weekend""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-aliens-are-real""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-an-emergency""
+  value {
+    completions {
+      mode: READ
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-an-important-decision""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-an-old-friend""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-are-we-cool""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-are-you-sick""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-at-the-gym""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-at-the-supermarket""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-aunt-betty""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-bad-at-soccer""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-bad-monkey""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-bad-reception""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-be-honest""
+  value {
+    completions {
+      mode: READ
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-bea-s-date""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-beach-day""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-big-family""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-big-head""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-call-a-doctor""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-can-i-have-it""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-cat-rule""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-checking-in""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-coffee-please""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-conselho_3-informational-0-autogenerated""
+  value {
+    completions {
+      mode: READ
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-conselho_3-informational-1-autogenerated""
+  value {
+    completions {
+      mode: READ
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-cousins""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-dating-apps""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-dirty-apartment""
+  value {
+    completions {
+      mode: READ
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-doctor-eddy""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-don-t-feed-the-seals""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-drawing-in-the-park""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-eat-your-vegetables""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-eddy-for-mayor""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-eddy-gets-an-offer""
+  value {
+    completions {
+      mode: READ
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-eddy-s-meeting""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-eddy-s-new-haircut""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-eddy-s-night-out""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-eddy-s-tears""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-famous-on-social-media""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-find-my-girlfriend""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-first-class""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-front-row""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-front-window""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-get-out""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-girl-band""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-going-away-party""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-good-morning""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-hannah-s-party""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-haunted-hotel""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-honeymoon""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-horoscopes-aren-t-real""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-house-party""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-how-to-dance""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-i-can-do-anything""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-i-can-fix-it""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-i-can-predict-the-future""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-i-love-boxing""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-i-love-your-haircut""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-i-m-driving""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-i-m-fine""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-i-m-the-manager""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-i-need-to-practice""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-i-want-a-dog""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-i-want-the-sandwich""
+  value {
+    completions {
+      mode: READ
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-inhale-exhale""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-is-she-mad-at-me""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-is-this-a-date""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-is-this-love""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-is-your-wifi-working""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-it-s-too-expensive""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-janet-s-play""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-jardim-informational-0-autogenerated""
+  value {
+    completions {
+      mode: READ
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-jardim-informational-1-autogenerated""
+  value {
+    completions {
+      mode: READ
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-junior-makes-a-mess""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-junior-s-first-kiss""
+  value {
+    completions {
+      mode: READ
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-junior-s-interview""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-junior-s-new-business""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-late-fees""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-late-for-the-movie""
+  value {
+    completions {
+      mode: LISTEN
+    }
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-leave-a-message""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-leave-the-house""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-lily-s-clothes""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-lily-s-painting""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-lin-s-audition""
+  value {
+    completions {
+      mode: READ
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-lin-s-resume""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-long-distance-girlfriend""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-marathon-runner""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-math-help""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-meu_lar_3-informational-0-autogenerated""
+  value {
+    completions {
+      mode: READ
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-meu_lar_3-informational-1-autogenerated""
+  value {
+    completions {
+      mode: READ
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-monster-under-the-bed""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-more-space""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-move-the-bed""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-moving""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-my-horse-hates-me""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-my-money-my-rules""
+  value {
+    completions {
+      mode: READ
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-nature-hike""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-new-jeans""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-new-roommate""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-nice-tie""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-on-the-news""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-one-star""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-one-thing""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-oscar-s-birthday""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-painting-at-sunrise""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-pajamas-and-potato-chips""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-perfect-for-the-job""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-pirate-land""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-pirates-are-cool""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-remove-this-statue""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-save-the-animals""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-scary-movie""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-secret-place""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-shopping-for-a-gift""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-something-new""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-sorry-im-late""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-space-turtles""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-space-viking""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-surprise-ending""
+  value {
+    completions {
+      mode: READ
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-surprise-party""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-taxi-ride""
+  value {
+    completions {
+      mode: READ
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-terrible-date""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-that-s-not-dinner""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-accident""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-art-show""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-astronaut""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-audition""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-baby-photo""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-basketball-player""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-best-cookies""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-best-grade""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-big-slide""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-book-club""
+  value {
+    completions {
+      mode: READ
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-boss-s-son""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-breakup""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-bride""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-cake""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-dragon-cake""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-drummer""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-flu-shot""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-frog""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-great-baking-show""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-horror-movie""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-interview""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-last-seat""
+  value {
+    completions {
+      mode: READ
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-list""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-long-flight""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-lost-costume""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-magic-school""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-magic-trick""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-mountain""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-new-app""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-new-student""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-passport""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-password""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-pasta-problem""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-perfect-girlfriend""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-pie-festival""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-principal-s-office""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-red-jacket""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-refund""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-rejection-letter""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-reservation""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-reunion""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-sandwich-thief""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-security-question""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-spicy-soup""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-sunset-cruise""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-tea-set""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-vegetarian""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-videotape""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-wedding-present""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-the-worst-season""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-this-tastes-strange""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-ticket-to-spain""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-tiny-hat""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-to-the-station""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-too-dangerous""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-too-much-stuff""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-too-nice""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-trabalho_2-informational-0-autogenerated""
+  value {
+    completions {
+      mode: READ
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-trabalho_2-informational-1-autogenerated""
+  value {
+    completions {
+      mode: READ
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-turbulence""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-twenty-years""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-uncle-edward-s-house""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-vacation-clothes""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-vikram-s-plants""
+  value {
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-waiting-for-george""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-whale-watching""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-what-do-you-want""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-what-s-the-recipe""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-whatever-junior-wants""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-where-s-my-jacket""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-without-a-paddle""
+  value {
+    completions {
+      mode: READ
+    }
+    completions {
+      mode: LISTEN
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-yoga-class""
+  value {
+    completions {
+      mode: READ
+      is_legendary: true
+    }
+  }
+}
+story_progress {
+  key: ""en-pt-you-can-talk""
+  value {
+    completions {
+      mode: READ
+    }
+  }
+}
+path_progress {
+  incomplete_lower_bound_skill_id: ""~\317A\301\332(\306\261~\033\375\325{\331\033\252""
+  practice_progress {
+    level_in_progress {
+      skill_id: ""~\317A\301\332(\306\261~\033\375\325{\331\033\252""
+      index_since_skill: 1
+    }
+    lessons_finished: 2
+    last_completed_level {
+      skill_id: ""~\317A\301\332(\306\261~\033\375\325{\331\033\252""
+      index_since_skill: 1
+    }
+  }
+  chest_progress {
+    last_completed_level {
+      skill_id: ""\024*%\273\252\236\272\216%J=o\371?U\203""
+    }
+    completions: 1
+  }
+  legendary_progress {
+    key: 0
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 1
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 2
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 3
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 4
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 5
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 6
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 7
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 8
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 9
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 10
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 11
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 12
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 60
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 2
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 61
+    value {
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 104
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 105
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 106
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 107
+    value {
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 108
+    value {
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 154
+    value {
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 155
+    value {
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 156
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 157
+    value {
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 158
+    value {
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 159
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 160
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 161
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 162
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 163
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 164
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 165
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 166
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 167
+    value {
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 168
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 169
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 170
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 171
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 172
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 173
+    value {
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 174
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 175
+    value {
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 176
+    value {
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 177
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 178
+    value {
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 179
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 180
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 181
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 182
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 183
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 184
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 185
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 186
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 187
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 188
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 189
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 190
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 191
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 192
+    value {
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 193
+    value {
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 194
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 195
+    value {
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 196
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 197
+    value {
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 198
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 199
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 200
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 201
+    value {
+      is_legendary: true
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+      practice_level_legendary_progress {
+        practice_level_index_within_unit: 1
+        is_legendary: true
+      }
+    }
+  }
+  legendary_progress {
+    key: 202
+    value {
+      practice_level_legendary_progress {
+        is_legendary: true
+      }
+    }
+  }
+  unit_review_progress {
+    last_completed_level {
+      skill_id: ""~\317A\301\332(\306\261~\033\375\325{\331\033\252""
+    }
+  }
+  side_quest_progress {
+    key: 117
+    value {
+      stars_earned: 1
+    }
+  }
+  path_position {
+    unit_index_optional {
+      value: 222
+    }
+    section_index_optional {
+      value: 6
+    }
+    relative_unit_index_optional {
+      value: 16
+    }
+  }
+  daily_refresh_position {
+    expires_at {
+      seconds: 1749610800
+    }
+  }
+  sectionType: LEARNING
+  video_call_progress {
+    key: 207
+    value {
+      completed_nodes: 2
+    }
+  }
+  video_call_progress {
+    key: 208
+    value {
+      completed_nodes: 2
+    }
+  }
+  video_call_progress {
+    key: 209
+    value {
+      completed_nodes: 2
+    }
+  }
+  video_call_progress {
+    key: 210
+    value {
+      completed_nodes: 2
+    }
+  }
+  video_call_progress {
+    key: 211
+    value {
+      completed_nodes: 2
+    }
+  }
+  isUnitVisionPathBB93: true
+}
+notifications {
+  payload {
+    path_change {
+      learning_language_id: ""en""
+      from_language_id: ""pt""
+    }
+  }
+  storedAt {
+    seconds: 1720037758
+  }
+}
+placement_test_progress {
+  took_placement_test {
+  }
+}
+"
+"pt<-en","2025-01-08T23:40:19.855940812Z","path_progress {
+  incomplete_lower_bound_skill_id: ""\331\263/\020r\357\346\204\361\334\353\226\006\026\326\373""
+  path_position {
+    unit_index_optional {
+    }
+    section_index_optional {
+    }
+    relative_unit_index_optional {
+    }
+  }
+  sectionType: LEARNING
+}
+placement_test_progress {
+  took_placement_test {
+  }
+}
+"
